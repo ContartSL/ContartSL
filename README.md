@@ -1,8 +1,4 @@
-<p align="center">
-  <span style="font-size: 1.5em; font-style: italic; text-transform: uppercase;">
-    <sup>Explore new Unknown worlds!</sup>
-  </span>
-</p>
+<h2 align="center"><i><b>EXPLORING THE UNKNOWN!</b></i></h2>
 
 ### This is my stars
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ContartSL&show_icons=true&theme=radical)
