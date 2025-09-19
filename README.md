@@ -1,31 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Exploring the Unknown!</title>
-    <style>
-        body {
-            height: 100vh;
-            margin: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: #f8f9fa;
-        }
-        .italic-big {
-            font-size: 4rem;
-            font-style: italic;
-            font-family: 'Segoe UI', 'Arial', sans-serif;
-            color: #22223b;
-            text-align: center;
-            letter-spacing: 2px;
-        }
-    </style>
-</head>
-<body>
-    <div class="italic-big">Exploring the Unknown!</div>
-</body>
-</html>
+<p align="center">
+  <span style="font-size: 1.5em; font-style: italic; text-transform: uppercase;">
+    <sup>Explore new Unknown worlds!</sup>
+  </span>
+</p>
 
 ### This is my stars
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ContartSL&show_icons=true&theme=radical)
